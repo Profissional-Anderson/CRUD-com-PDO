@@ -11,7 +11,7 @@
 ### SQL do Banco:
 
 <p align="center">
-<img width="460" height="399" src="/CRUD-PDO/img/imgsql.jpeg">
+<img width="460" height="399" src="/CRUD-PDO/img/imgsql.jpg">
 </p>
 
 <p align="center">Esse foi o código SQL utilizado para a criação do Banco de Dados.</p>
