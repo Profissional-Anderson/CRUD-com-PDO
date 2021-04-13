@@ -1,4 +1,4 @@
-# - CRU com PDO -
+# - CRUD com PDO -
 
 ### Projeto criado para praticar o CRUD com PDO:
 
